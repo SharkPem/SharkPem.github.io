@@ -78,8 +78,6 @@ $\LaTeX$
 ---
 ## 九、插入表格
 
-option+command+T
-
 | 列名1 | 列名2 | 列名3 |
 | ----- | ----- | ----- |
 | 内容a | 内容b | 内容c |
@@ -89,7 +87,7 @@ option+command+T
 ---
 ## 十、流程图
 
-```sequence
+```
 彭浩宇 -> 李鑫: Hello 老婆, you are pig?
 Note right of 李鑫: 李鑫心想，傻逼吗这是？
 李鑫 --> 彭浩宇: Of cours！I'm pig, 噗噗噗！
