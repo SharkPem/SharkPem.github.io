@@ -78,7 +78,7 @@
     
     {%- if _author.bilibili -%}
       <li title="{{ _locale_string_follow | replace: '[NAME]', 'BiliBili' }}">
-        <a class="button button--circle BiliBili-button" itemprop="sameAs" href="https://space.bilibili.com/{{ _author.medium }}" target="_blank">
+        <a class="button button--circle bilibili-button" itemprop="sameAs" href="https://space.bilibili.com/{{ _author.medium }}" target="_blank">
           <div class="icon">{%- include svg/icon/social/bilibili.svg -%}</div>
         </a>
       </li>
