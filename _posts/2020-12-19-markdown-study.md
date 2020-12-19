@@ -1,6 +1,6 @@
 ---
 title: 5分钟上手Markdown语法
-tags: 其他学习
+tags: 其他
 ---
 
 
