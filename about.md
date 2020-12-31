@@ -39,7 +39,7 @@ key: page-about
 
 一、代表性学术论文（第一/通信作者）
 
-[1] H.Y.Peng, W.S.Liao, et al. The first paper in English[J].Computers & Graphics,2021,01(1):100-101.【IF:2.2】【CCF-C类期刊】
+[1] H.Y.Peng, W.S.Liao, et al. The first paper in English[J].Computers & Graphics,2021,01(1):100-101.【CCF-C类期刊】
 
 [2] 学生,导师. 第一篇中文论文[J].期刊名,2021,01(1):100-101.
 
