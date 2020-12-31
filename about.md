@@ -2,7 +2,7 @@
 layout: article
 titles:
   # @start locale config
-  en      : &EN       About
+  en      : &EN       About Me
   en-GB   : *EN
   en-US   : *EN
   en-CA   : *EN
@@ -26,4 +26,4 @@ titles:
 key: page-about
 ---
 
-未添加，暂时不急
+
